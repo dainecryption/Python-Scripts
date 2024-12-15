@@ -29,6 +29,25 @@
   - #Display the `employee_id` after the update
   - print(employee_id)
   - ![image](https://github.com/user-attachments/assets/1c4124a4-4453-4389-b6c2-f5ac0822ef50)
+  - #Assign `device_id` to a string that contains alphanumeric characters
+  - device_id = "r262c36"
+  - #Extract the fourth character in `device_id` and display it
+  - print(device_id[3])
+  - ![image](https://github.com/user-attachments/assets/43a63e2c-34a0-456c-ade4-39cf05b28d35)
+  - #Assign `device_id` to a string that contains alphanumeric characters
+  - device_id = "r262c36"
+  - #Extract the first through the third characters in `device_id` and display the result
+  - print(device_id[0:3])
+  - ![image](https://github.com/user-attachments/assets/fc5546a6-3478-4e6b-8fb3-810dcc94e029)
+  - # Assign `url` to a specific URL
+  - url = "https://exampleURL1.com"
+  - #Extract the protocol of `url` along with the syntax following it, display the result
+  - print(url[0:8])
+  - ![image](https://github.com/user-attachments/assets/7a393466-e7e4-4f8b-914c-72c1628de8c0)
+  - 
+
+
+
 
 
   
