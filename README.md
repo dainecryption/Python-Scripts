@@ -1,6 +1,4 @@
-# Python-Scripts
-
-- Work with strings in Python
+# Work with strings in Python
   - #Assign `employee_id` to a four digit number as an initial value
   - employee_id = 4186
   - #Display the data type of `employee_id
