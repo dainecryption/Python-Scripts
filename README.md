@@ -44,7 +44,34 @@
   - #Extract the protocol of `url` along with the syntax following it, display the result
   - print(url[0:8])
   - ![image](https://github.com/user-attachments/assets/7a393466-e7e4-4f8b-914c-72c1628de8c0)
-  - 
+  - #Assign `url` to a specific URL
+  - url = "https://exampleURL1.com"
+  - #Display the index where the domain extension ".com" is located in `url`
+  - print(url.index(".com"))
+  - ![image](https://github.com/user-attachments/assets/c934e60b-5f93-4a3d-9e06-a805892e1e45)
+  - #Assign `url` to a specific URL
+  - url = "https://exampleURL1.com"
+  - #Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of ".com" in `url`
+  - ind = url.index(".com")
+  - ![image](https://github.com/user-attachments/assets/31d924f6-50dd-4186-bdf6-7bdc9d3afd2b)
+  - #Assign `url` to a specific URL
+  - url = "https://exampleURL1.com"
+  - #Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of ".com" in `url`
+  - ind = url.index(".com")
+  - #Extract the domain extension in `url` and display it
+  - print(url[ind:ind+4])
+  - ![image](https://github.com/user-attachments/assets/a53844ba-7ebe-4b6c-83d6-a434caa12443)
+  - #Assign `url` to a specific URL
+  - url = "https://exampleURL1.com"
+  - #Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of ".com" in `url`
+  - ind = url.index(".com")
+  - #Extract the website name in `url` and display it
+  - print(url[8:ind])
+  - ![image](https://github.com/user-attachments/assets/5cc7481b-98ad-4e14-8c11-fe986f65895f)
+
+
+
+
 
 
 
